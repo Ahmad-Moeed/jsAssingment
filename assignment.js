@@ -3,7 +3,7 @@
 // alert("Welcome to the webpage!")
 
 // ----------- Q2 ----------
-// let userName = "AHMAD MOEED"; 
+// let userName = "AHMAD MOEED"
 // let greetingMessage = "A0A, " + userName + " Welcome" 
 // alert(greetingMessage)
 
