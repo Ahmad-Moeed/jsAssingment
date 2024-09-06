@@ -4,23 +4,23 @@
 
 // ----------- Q2 ----------
 // let userName = "AHMAD MOEED"; 
-// let greetingMessage = "A0A, " + userName + " Welcome"; 
-// alert(greetingMessage);
+// let greetingMessage = "A0A, " + userName + " Welcome" 
+// alert(greetingMessage)
 
 // ---------- Q3 ----------
-// let number1 = 10;
-// let number2 = 10;
-// let sum = number1 + number2;
+// let number1 = 10
+// let number2 = 10
+// let sum = number1 + number2
 // alert( sum )
 
 // ---------- Q4 ----------
 // let myName = "Ahmad Moeed";
-// let myAge_new = 20;
+// let myAge_new = 20
 // alert(myName )
 // alert(myAge_new)
 
-// var 1Name = 1;
-// var first-address = "Smit";
+// var 1Name = 1
+// var first-address = "Smit"
 
 // ---------- Q5 ----------
 // let num1 = prompt("please inter number one") 
@@ -302,13 +302,13 @@
 // alert("Countdown complete")
 
 // ---------- Q8 ----------
-// let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-// numbers.shift()
-// numbers.pop()
-// numbers.unshift(0)
-// numbers.push(11)
+let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+numbers.shift()
+numbers.pop()
+numbers.unshift(0)
+numbers.push(11)
 
-// let middlePortion = numbers.slice(2, 7)
-// console.log( numbers)
-// console.log( middlePortion)
+let middlePortion = numbers.slice(2, 7)
+console.log( numbers)
+console.log( middlePortion)
 
